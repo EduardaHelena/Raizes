@@ -1,0 +1,6 @@
+C:\Users\flavia.ferreira\Downloads\NumImpar-2016-07-15\NumImpar\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\flavia.ferreira\Downloads\NumImpar-2016-07-15\NumImpar\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\flavia.ferreira\Downloads\NumImpar-2016-07-15\NumImpar\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\flavia.ferreira\Downloads\NumImpar-2016-07-15\NumImpar\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\flavia.ferreira\Downloads\NumImpar-2016-07-15\NumImpar\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\flavia.ferreira\Downloads\NumImpar-2016-07-15\NumImpar\ConsoleApplication1\obj\Debug\NumImpar.csprojResolveAssemblyReference.cache
